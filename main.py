@@ -2,7 +2,7 @@ import telebot
 from decouple import config
 from weather import getCurrentWeather
 
-BOT_TOKEN = "6067594989:AAHgfY4SSYQ9kuDYloRs9pCI5PUys3LBxFA"
+BOT_TOKEN = ""
 greeting = ["hello", "hi", "welcome", "اهلاً"]
 whoAreYou = ["who", 'what']
 weather = ["weather", "الطقس"]
